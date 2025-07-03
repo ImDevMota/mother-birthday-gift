@@ -10,6 +10,7 @@ A ideia foi criar uma experiência visual e interativa que reunisse elementos si
 - 🔗 **Botão de navegação** que leva a uma segunda página com mais surpresas;
 - 🎵 **Player do Spotify incorporado**, com uma música significativa;
 - 🌧️ **Animação de chuva com emojis personalizados**, trazendo um toque emocional e divertido;
+- ⏳ **Temporizador em tempo real**, mostrando exatamente há quanto tempo minha mãe está viva — em anos, meses, dias, horas e minutos
 - 📱 **Layout 100% otimizado para mobile**, com foco na experiência em telas pequenas.
 
 Tudo isso foi feito com atenção aos detalhes, buscando proporcionar uma experiência suave e emocionante.
@@ -19,6 +20,7 @@ Tudo isso foi feito com atenção aos detalhes, buscando proporcionar uma experi
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
+- [swiper/react](https://swiperjs.com/react) — para o carrossel com animações
 - [Spotify Embed](https://developer.spotify.com/documentation/widgets/)
 
 ## 🚀 Como Rodar o Projeto
